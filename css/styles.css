@@ -279,6 +279,10 @@ svg.header-icon-statistic:hover path {
     flex-wrap: wrap;
 }
 
+.video-image {
+    display: block;
+}
+
 .video-block-item {
     position: relative;
     background: white;
