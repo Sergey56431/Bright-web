@@ -124,7 +124,7 @@ body {
     border-bottom: 1px solid #E2E2E2;
 }
 
-.header-burger {
+.header-burger svg {
     cursor: pointer;
 }
 
