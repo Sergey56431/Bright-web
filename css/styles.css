@@ -127,6 +127,7 @@ body {
 .header-burger svg:hover rect {
     fill: #3D63D2;
     transition: all 0.2s linear;
+    cursor: pointer;
 }
 
 .menu {
