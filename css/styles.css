@@ -124,10 +124,13 @@ body {
     border-bottom: 1px solid #E2E2E2;
 }
 
+.header-burger {
+    cursor: pointer;
+}
+
 .header-burger svg:hover rect {
     fill: #3D63D2;
     transition: all 0.2s linear;
-    cursor: pointer;
 }
 
 .menu {
